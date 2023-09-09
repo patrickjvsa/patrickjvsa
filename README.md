@@ -1,6 +1,7 @@
-### Hi there 👋
+### hola 👋
+aquí mantengo mis repos de temáticas random
 
-<!--
+<!--  
 **patrickjvsa/patrickjvsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
