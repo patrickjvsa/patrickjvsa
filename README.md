@@ -1,5 +1,5 @@
 ### hola 👋
-aquí estoy comenzando a subir mis repos de temáticas random y otros mas serios
+aquí estoy comenzando a subir mis repos. unos sopresivamente randoms y otros mas serios
 
 <!--  
 **patrickjvsa/patrickjvsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
