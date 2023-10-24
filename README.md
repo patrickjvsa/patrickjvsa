@@ -3,18 +3,26 @@
 i'm starting to use github to keep my repositories. there are some comically random stuff and other more serious.
 
 some tools i know 🔭:
+
   python, sql, excel, tableau.
+  
   pandas, plotly, sklearn, xgboost
+
   statistics (regressions, time series)
+  
   machine learning (clustering, clasification, regression, optimization, anomalies, ensambled methods)
+  
   ai (langchain, autogpt, openai api, hugging face)
+  
   pinecone, chromadb and other vector databases.
+  
   streamlit.
 
 learning 🌱:
   git, docker, azure
 
 how to reach me 📫:
+
   https://www.linkedin.com/in/pvasquezs/
   
 
