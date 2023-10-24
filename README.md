@@ -7,7 +7,7 @@ i'm starting to use github to keep my repos. there are some comically random stu
 * pandas, plotly, sklearn, xgboost.
 * statistics (regressions, time series).
 * machine learning (clustering, clasification, regression, optimization, anomalies, ensambled methods).
-* ai (langchain, autogpt, chatgpt, hugging face, midjourney).
+* ai (langchain, autogpt, chatgpt API, hugging face, midjourney).
 * pinecone, chromadb and other vector databases.
 * streamlit.
 
