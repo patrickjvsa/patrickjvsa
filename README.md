@@ -3,7 +3,7 @@
 i'm starting to use github to keep my repos. there are some comically random stuff and other more serious.
 
 ### some tools i know 🔭:
-* python, sql, excel, tableau.
+* python, sql, stata, excel, tableau.
 * pandas, plotly, sklearn, xgboost.
 * statistics (regressions, time series).
 * machine learning (clustering, clasification, regression, optimization, anomalies, ensambled methods).
@@ -12,7 +12,7 @@ i'm starting to use github to keep my repos. there are some comically random stu
 * streamlit.
 
 ### learning 🌱:
-* git, docker, azure, power tools.
+* git, docker, azure, postgresql, mongodb.
 
 ### how to reach me 📫:
 * https://www.linkedin.com/in/pvasquezs/
