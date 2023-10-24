@@ -1,6 +1,6 @@
 ### hey 👋
 ✨i just like programming and doing data science✨
-i'm starting to use github to keep my repositories. there are some comically random stuff and other more serious.
+i'm starting to use github to keep my repos. there are some comically random stuff and other more serious.
 
 ### some tools i know 🔭:
 * python, sql, excel, tableau.
