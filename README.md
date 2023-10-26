@@ -4,7 +4,7 @@ i'm starting to use github to keep my repos. there are some comically random stu
 
 ### some tools i know 🔭:
 * python, sql, stata, excel, tableau.
-* pandas, plotly, sklearn, xgboost.
+* pandas, plotly, sklearn, statsmodels, xgboost.
 * statistics (regressions, time series).
 * machine learning (clustering, clasification, regression, optimization, anomalies, ensambled methods).
 * ai (langchain, autogpt, chatgpt API, hugging face, midjourney).
