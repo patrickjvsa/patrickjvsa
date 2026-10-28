@@ -1,4 +1,4 @@
-###📫:
+📫:
 * https://www.linkedin.com/in/pvasquezs/
   
 
