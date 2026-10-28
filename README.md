@@ -1,20 +1,4 @@
-### hey 👋
-✨i just like programming, experimenting with ai and doing data science✨
-i'm starting to use github to keep my repos. there are some comically random stuff and other more serious.
-
-### some tools i know 🔭:
-* python, sql, stata, excel, tableau.
-* pandas, plotly, sklearn, statsmodels, xgboost.
-* statistics (regressions, time series).
-* machine learning (clustering, clasification, regression, optimization, anomalies, ensambled methods).
-* ai (langchain, autogpt, chatgpt API, hugging face, midjourney).
-* pinecone, chromadb and other vector databases.
-* streamlit.
-
-### learning 🌱:
-* git, docker, azure, postgresql, mongodb.
-
-### how to reach me 📫:
+###📫:
 * https://www.linkedin.com/in/pvasquezs/
   
 
